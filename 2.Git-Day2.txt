@@ -1,0 +1,6 @@
+
+Regular used Git commands
+
+git status ---- to check the status, it will print the Branch Name as well
+git init -- to initialize the git
+git add <file name> -------- to add one file
