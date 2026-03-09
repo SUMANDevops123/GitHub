@@ -4,3 +4,20 @@ Regular used Git commands
 git status ---- to check the status, it will print the Branch Name as well
 git init -- to initialize the git
 git add <file name> -------- to add one file
+
+
+https://github.com/SUMANDevops123/GitHub.git
+
+or create a new repository on the command line
+echo "# GitHub" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SUMANDevops123/GitHub.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/SUMANDevops123/GitHub.git
+git branch -M main
+git push -u origin main
